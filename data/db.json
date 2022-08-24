@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "my first blog",
+      "body": "why did we use it is a long established fact that a reader will be distracted",
+      "author": "uche",
+      "id": 1
+    }
+  ]
+}
